@@ -4,7 +4,10 @@
 <p align="center">
   <a href="mailto:buiquangtan.2004vta@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/tan-bui-quang-963682345"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-[![Follow me](https://img.shields.io/github/followers/buiTannn?label=Follow&style=social)](https://github.com/buiTannn)
+<a href="https://github.com/buiTannn" target="_blank">
+  <img src="https://img.shields.io/github/followers/buiTannn?label=Follow&style=social" />
+</a>
+
 </p>
 
 ---
