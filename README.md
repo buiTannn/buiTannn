@@ -7,8 +7,8 @@
 <a href="https://github.com/buiTannn" target="_blank">
   <img src="https://img.shields.io/github/followers/buiTannn?label=Follow&style=social" />
 </a>
-<a href="https://www.youtube.com/channel/@TấnHCMUTE" target="_blank">
-  <img src="https://img.shields.io/youtube/subscribers/@TấnHCMUTE?style=social" />
+<a href="https://www.youtube.com/channel/UCO6KFRV5xTskc9zmb3Znwug" target="_blank">
+  <img src="https://img.shields.io/youtube/subscribers/UCO6KFRV5xTskc9zmb3Znwug?style=social" />
 </a>
 
 
