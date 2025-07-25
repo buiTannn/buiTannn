@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bui Quang Tan</h1>
-<h3 align="center">💻 Embedded Software Engineer | 🎓 Final-year Student | 🔧 Maker</h3>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-photo-url.jpg" alt="Bui Quang Tan" width="200" />
-</p>
+<h3 align="center">💻 Embedded Software Engineer </h3>
 
 <p align="center">
   <a href="mailto:buiquangtan.2004vta@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
@@ -46,28 +42,6 @@ I have a solid foundation in **embedded systems**, **AUTOSAR**, and **FreeRTOS**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,linux,python,matlab" alt="Skill icons" />
 </p>
-
-
-### 📜 Certifications
-
-- TOEIC 685 (Oct 2024)
-
----
-
-### 🏅 Honor & Awards
-
-**Honorable Mention – FREE ROBOTICS - THE ENDLESS MAZE** *(May 2024)*  
-> Built a remote-controlled maze car using Arduino UNO to capture flags manually.
-
----
-
-### 📫 Contact Me
-
-- 📍 Go Vap, Ho Chi Minh City, Vietnam  
-- 📧 Email: buiquangtan.2004vta@gmail.com  
-- 🌐 Portfolio: *Coming Soon*
-
----
 
 
 ### 🙋‍♂️ Fun Fact
