@@ -3,15 +3,16 @@
 
 <p align="center">
   <a href="mailto:buiquangtan.2004vta@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/tan-bui-quang-963682345">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
   <a href="https://www.youtube.com/channel/UCO6KFRV5xTskc9zmb3Znwug" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube Channel" />
   </a>
 </p>
+
 
 
 </p>
