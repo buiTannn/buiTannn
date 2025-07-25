@@ -21,36 +21,20 @@ I have a solid foundation in **embedded systems**, **AUTOSAR**, and **FreeRTOS**
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Core Skills
 
-- **Programming Languages**: C/C++, Python  
-- **Operating Systems**: Linux, FreeRTOS  
-- **Communication Protocols**: SPI, I2C, UART, CAN  
-- **Microcontrollers**: Raspberry Pi, Arduino, ESP32, 8051  
-- **Engineering Software**: MATLAB Simulink, Proteus  
+<p align="center">
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FreeRTOS-00B5E2?style=for-the-badge&logoColor=white" alt="FreeRTOS" />
+  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white" alt="MATLAB" />
+</p>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,linux,python,matlab" alt="Skill icons" />
+</p>
 
-### 🔧 Projects
-
-#### 🚨 [Smart Fire Alarm System](https://github.com/buiTanmn/Fire_Detection)
-> *ESP32-based fire detection system with YOLOv8 vision AI*
-- Sensors: Flame, Smoke, Temperature
-- Sent alerts via MQTT & displayed on Blynk
-- Trained YOLOv8 fire detection model with Roboflow
-- 📷 Image recognition using ESP32-CAM
-
-#### 🎓 [Seatbelt AUTOSAR](https://github.com/buiTanmn/SeatBelt_AUTOSAR)
-> *Developed AUTOSAR-compliant seatbelt system in MATLAB Simulink*
-- Included DEM for fault monitoring and NVM for state saving
-- Generated production C code using Embedded Coder
-
-#### 📟 [Vibration Sensor Driver on Raspberry Pi](https://github.com/buiTanmn/Vibration_Sensor_Driver)
-> *Low-level Linux device driver to detect vibration via GPIO interrupt*
-- Wrote kernel module, device tree overlay
-- User-space app for real-time data control
-
----
 
 ### 📜 Certifications
 
@@ -73,15 +57,6 @@ I have a solid foundation in **embedded systems**, **AUTOSAR**, and **FreeRTOS**
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buiTanmn&show_icons=true&theme=tokyonight" alt="buiTanmn" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buiTanmn&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ### 🙋‍♂️ Fun Fact
 
