@@ -9,10 +9,15 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y docker.io jq
+
       - uses: lowlighter/metrics@latest
         with:
-          filename: .github/metrics_renders/github-metrics.svg  # 👈 lưu đúng vị trí
-          token: ${{ secrets.MATRIC_SECRET }}
+          filename: .github/metrics_renders/github-metrics.svg
+          token: ${{ secrets.MATRIC_SECRET }}              # Make sure this PAT is set and has correct scopes
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Ho_Chi_Minh
           plugin_isocalendar: yes
