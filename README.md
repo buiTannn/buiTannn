@@ -20,6 +20,9 @@ I’m a final-year student at **Ho Chi Minh City University of Technology and Ed
 I have a solid foundation in **embedded systems**, **AUTOSAR**, and **FreeRTOS**. I'm passionate about building smart systems that combine hardware and software to solve real-world problems.
 
 ---
+## 📊 GitHub Metrics Overview
+
+<img src="https://github.com/buiTanmn/buiTanmn/blob/main/github-metrics.svg" alt="GitHub Metrics" />
 
 ### 🛠️ Core Skills
 
