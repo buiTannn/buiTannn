@@ -24,6 +24,13 @@ I have a solid foundation in **embedded systems**, **AUTOSAR**, and **FreeRTOS**
 
 <img src="https://github.com/buiTanmn/buiTanmn/blob/main/github-metrics.svg" alt="GitHub Metrics" />
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=buiTanmn&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buiTanmn&layout=compact&theme=dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=buiTanmn&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ### 🛠️ Core Skills
 
 <p align="center">
