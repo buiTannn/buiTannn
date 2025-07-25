@@ -26,8 +26,6 @@ I have a solid foundation in **embedded systems**, **AUTOSAR**, and **FreeRTOS**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buiTannn&layout=compact&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=buiTannn&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ### 🛠️ Core Skills
 
