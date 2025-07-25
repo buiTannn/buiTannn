@@ -12,7 +12,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.MATRIC_SECRET }}
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Ho_Chi_Minh
           plugin_isocalendar: yes
