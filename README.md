@@ -28,11 +28,20 @@ I have a solid foundation in **embedded systems**, **AUTOSAR**, and **FreeRTOS**
 ---
 ## 📊 GitHub Metrics Overview
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=buiTannn&show_icons=true&theme=radical" width="300" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=buiTannn&theme=dark" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buiTannn&layout=compact&theme=dark" width="300" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=buiTannn&show_icons=true&theme=radical" width="300" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=buiTannn&theme=dark" width="300" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buiTannn&layout=compact&theme=dark" width="300" />
+    </td>
+  </tr>
+</table>
+
 
 
 ### 🛠️ Core Skills
