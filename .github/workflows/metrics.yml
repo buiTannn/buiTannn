@@ -1,7 +1,7 @@
 name: GitHub Metrics
 
 on:
-  schedule: [{ cron: "0 0 * * *" }]  
+  schedule: [{ cron: "0 0 * * *" }]
   push: { branches: ["main"] }
   workflow_dispatch:
 
@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
+          filename: .github/metrics_renders/github-metrics.svg  # 👈 lưu đúng vị trí
           token: ${{ secrets.MATRIC_SECRET }}
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Ho_Chi_Minh
@@ -22,3 +22,11 @@ jobs:
           plugin_achievements_display: compact
           plugin_lines: yes
           plugin_habits: yes
+
+      - name: Commit generated metrics
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add .github/metrics_renders/github-metrics.svg
+          git commit -m "chore: update GitHub Metrics" || echo "No changes to commit"
+          git push
