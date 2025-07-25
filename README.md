@@ -7,6 +7,10 @@
 <a href="https://github.com/buiTannn" target="_blank">
   <img src="https://img.shields.io/github/followers/buiTannn?label=Follow&style=social" />
 </a>
+<a href="https://www.youtube.com/channel/@TấnHCMUTE" target="_blank">
+  <img src="https://img.shields.io/youtube/subscribers/@TấnHCMUTE?style=social" />
+</a>
+
 
 </p>
 
