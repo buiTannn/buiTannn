@@ -22,7 +22,8 @@ I have a solid foundation in **embedded systems**, **AUTOSAR**, and **FreeRTOS**
 ---
 ## 📊 GitHub Metrics Overview
 
-<img src="https://raw.githubusercontent.com/buiTannn/buiTannn/main/.github/metrics_renders/github-metrics.svg" alt="GitHub Metrics" />
+![GitHub Metrics](https://raw.githubusercontent.com/buiTannn/buiTannn/main/.github/metrics_renders/github-metrics.svg)
+
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=buiTannn&theme=dark)
