@@ -52,6 +52,3 @@ I have a solid foundation in **embedded systems**, **AUTOSAR**, and **FreeRTOS**
 </p>
 
 
-### 🙋‍♂️ Fun Fact
-
-> I love building real-time systems that interact with the physical world 🌎!
