@@ -32,6 +32,7 @@ I have a solid foundation in **embedded systems**, **AUTOSAR**, and **FreeRTOS**
 ](https://github-readme-stats.vercel.app/api?username=buiTannn&show_icons=true&theme=radical&t=1691782731
 )
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=buiTannn&theme=radical&hide_border=true)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buiTannn&layout=compact&theme=dark)
