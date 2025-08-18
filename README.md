@@ -46,9 +46,3 @@ I have a solid foundation in **embedded systems**, **AUTOSAR**, and **FreeRTOS**
   <img src="https://img.shields.io/badge/FreeRTOS-00B5E2?style=for-the-badge&logoColor=white" alt="FreeRTOS" />
   <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white" alt="MATLAB" />
 </p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,linux,python,matlab" alt="Skill icons" />
-</p>
-
-
